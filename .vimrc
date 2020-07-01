@@ -1,5 +1,5 @@
-" Wes Doyle vimrc
-" Last Update March 20 2018
+" Jonathan Romero
+" February 20 2020
 
 set nocompatible
 
